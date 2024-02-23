@@ -2,7 +2,7 @@
 
 ### Overview
 
-In this assignment, we delve into several crucial skills in data science. Try to understand and finish the tasks in [assignement1.ipynb](assignement1.ipynb).
+In this assignment, we delve into several crucial skills in data science. Try to understand and finish the tasks in [assignment1.ipynb](assignment1.ipynb).
 
 ### Tasks
 
