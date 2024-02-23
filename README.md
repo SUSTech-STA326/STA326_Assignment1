@@ -7,7 +7,7 @@
 
 ## Introduction
 
-The project is structured into four key tasks, starting with web scraping to collect raw data from websites, followed by analyzing pre-collected data in JSON and CSV formats, and concluding with a crucial data cleaning step to ensure data quality.  Try to understand and finish the tasks in [assignment1.ipynb](assignment1.ipynb).
+The project is structured into four key tasks, starting with web scraping to collect raw data from websites, followed by analyzing pre-collected data in JSON and CSV formats, and concluding with a crucial data cleaning step to ensure data quality.  Try to understand and finish the tasks in [Assignment1](assignment1.ipynb).
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ The project is structured into four key tasks, starting with web scraping to col
 
 ### Task 2: Analyzing Pre-collected Data in JSON Format
 
-- **Objective**: Understand how to load, parse, and analyze data stored in JSON files.
+- **Objective**: Understand how to load, and analyze data stored in JSON files.
 - **Key Concepts**: JSON structure, data parsing, nested objects and arrays.
 
 ### Task 3: Exploring Pre-collected Data in CSV Format
