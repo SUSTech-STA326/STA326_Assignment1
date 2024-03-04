@@ -39,7 +39,5 @@ The project is structured into four key tasks, starting with web scraping to col
 
 
 ---
-## Submission
-- Make improvements or modifications to the project and submit your code via a Pull Request (PR) back to the original repository.
-- Export your Jupyter Notebook (.ipynb file) as a PDF and submit it via the Blackboard system.
 
+Once completed, submit your Jupyter notebook (`assignment1.ipynb`) along with any additional files generated during the assignment. 
